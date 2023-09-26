@@ -1,3 +1,6 @@
+Themes retired from https://github.com/mbadolato/iTerm2-Color-Schemes/ which is
+licensed under MIT license.
+
 ## Screenshots
 
 ### 3024 Day

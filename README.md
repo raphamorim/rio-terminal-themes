@@ -1,7 +1,7 @@
-Themes retired from https://github.com/mbadolato/iTerm2-Color-Schemes/ which is
+Themes got from https://github.com/mbadolato/iTerm2-Color-Schemes/ which is
 licensed under MIT license.
 
-(Retired to allow package managers to only download rio themes)
+(Get to allow package managers to only download rio themes)
 
 ## Screenshots
 

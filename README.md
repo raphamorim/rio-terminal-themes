@@ -469,6 +469,10 @@ licensed under MIT license.
 
 ![Screenshot](screenshots/hopscotch_256.png)
 
+### Horizon
+
+![Screenshot](screenshots/horizon.png)
+
 ### Hurtado
 
 ![Screenshot](screenshots/hurtado.png)
